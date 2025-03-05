@@ -1,2 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+[submodule "Subway-Surfers"]
+    path = Subway-Surfers
+    url = https://github.com/Xclipse-Net/Website/blob/main/Subway-Surfers
